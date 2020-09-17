@@ -942,7 +942,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/head.jpg"
 
   # TypeIt config
   # TypeIt 配置
@@ -1069,7 +1069,7 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
+  name = "YC"
   email = ""
   link = ""
 
