@@ -14,6 +14,7 @@ categories: ["Markdown"]
 lightgallery: true
 ---
 
+{{< bilibili BV1T4411M7YN >}}
 
 现在又配置了一下github actions更香了。
 推送到远端服务器的网上太多了，正好刚配置完搜索的，就贴一下吧，帮助后来的小伙伴们。
