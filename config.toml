@@ -5,13 +5,9 @@ defaultContentLanguage = "zh-cn"
 # theme
 # 主题
 theme = "LoveIt"
-# themes directory
-# 主题目录
-
-
 # website title
 # 网站标题
-title = "LoveIt"
+title = "YC_Blog"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -288,18 +284,18 @@ enableEmoji = true
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com"
         title = "GitHub"
         weight = 6
     [languages.zh-cn.params]
       # 网站描述
-      description = "关于 LoveIt 主题"
+      description = "关于 YC_Blog"
       # 网站关键词
       keywords = ["Theme", "Hugo"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "LoveIt"
+        title = "YC_Blog"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -341,7 +337,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/avatar.png"
+          avatarURL = "/images/head.jpg"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
