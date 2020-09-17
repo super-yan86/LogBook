@@ -1,7 +1,7 @@
 ---
-weight: 6
 title: "first_post"
 date: 2020-09-16T20:39:49+08:00
+draft: false
 author: "YC"
 description: "这篇文章展示了一些基本的用法"
 resources:
