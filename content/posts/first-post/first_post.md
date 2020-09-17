@@ -6,6 +6,9 @@ author: "YC"
 resources:
 - name: "first-post"
   src: "first-post.png"
+
+tags: ["Markdown"]
+categories: ["Markdown"]  
 ---
 
 
