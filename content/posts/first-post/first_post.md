@@ -1,14 +1,17 @@
 ---
-title: "First_post"
+weight: 6
+title: "first_post"
 date: 2020-09-16T20:39:49+08:00
-lightgallery: true
 author: "YC"
+description: "这篇文章展示了一些基本的用法"
 resources:
 - name: "first-post"
   src: "first-post.png"
 
 tags: ["Markdown"]
-categories: ["Markdown"]  
+categories: ["Markdown"]
+
+lightgallery: true
 ---
 
 
