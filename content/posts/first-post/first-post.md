@@ -6,7 +6,7 @@ author: "YC"
 description: "这篇文章展示了一些基本的用法"
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["Markdown"]
 categories: ["Markdown"]
