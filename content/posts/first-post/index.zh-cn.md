@@ -14,7 +14,7 @@ categories: ["Markdown"]
 
 lightgallery: true
 toc:
-  auto: false
+  auto: true
 ---
 
 {{< bilibili BV1T4411M7YN >}}
