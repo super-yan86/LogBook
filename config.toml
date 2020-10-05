@@ -19,7 +19,6 @@ enableGitInfo = false
 # 是否使用 emoji 代码
 enableEmoji = true
 
-
 [languages]
   [languages.en]
     weight = 1
