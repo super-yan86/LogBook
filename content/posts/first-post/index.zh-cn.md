@@ -40,8 +40,6 @@ lightgallery: true
 
 **LoveIt** 主题完全兼容 Hugo 的多语言模式, 并且支持在网页上切换语言.
 
-![语言切换](language-switch.gif "语言切换")
-
 ### 4.1 兼容性 {#language-compatibility}
 
 {{< version 0.2.10 changed >}}
