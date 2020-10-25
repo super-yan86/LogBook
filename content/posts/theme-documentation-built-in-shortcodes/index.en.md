@@ -114,12 +114,12 @@ The rendered output looks like this:
 Example `instagram` input:
 
 ```markdown
-{{</* instagram CEvw_EGJGxN hidecaption */>}}
+{{</* instagram CDU6jLFhYsB hidecaption */>}}
 ```
 
 The rendered output looks like this:
 
-{{< instagram CEvw_EGJGxN hidecaption >}}
+{{< instagram CDU6jLFhYsB hidecaption >}}
 
 ## 5 param
 
