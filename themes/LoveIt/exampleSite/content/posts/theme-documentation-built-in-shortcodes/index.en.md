@@ -119,7 +119,9 @@ Example `instagram` input:
 
 The rendered output looks like this:
 
+<!-- 这是一段注释
 {{< instagram BWNjjyYFxVx hidecaption >}}
+-->
 
 ## 5 param
 
