@@ -15,8 +15,7 @@ categories: ["vps"]
 lightgallery: true
 ---
 
-```markdown
-# 云
+# 云(Cloud)
 
 IaaS指提供系统（可以自己选）或者储存空间之类的硬件，软件要自己手动装；PaaS提供软件/框架（可以自己选）；SaaS只能使用开发好的软件（卖软件本身）；BaaS一般类似于非关系数据库，但各家不通用，有时还有一些其它东西。
 
@@ -188,4 +187,35 @@ IaaS指提供系统（可以自己选）或者储存空间之类的硬件，软�
 * https://caprover.com/
 * https://rio.io/
 
-```
+---
+# Awesome ECS
+
+* 博客：wordpress（PHP但UI部署很完善）、jekyll（RUBY，star和贡献者非常多） 、hexo（JS，创造者是台湾的）、halo（Java）；不考虑的：typecho（国产，PHP，活跃度不高）、ghost（首页像有挖矿病毒一样）
+* ss：https://github.com/lrinQVQ/script https://github.com/mritd/dockerfile/tree/master/shadowsocks
+* 网盘：Seafile（国产，C，同步盘），https://github.com/nextcloud/docker https://docs.nextcloud.com/server/17/user_manual/ （owncloud的同作者，PHP） https://github.com/e-alfred/ocdownloader 离线下载插件；BTSync, syncthing；oneindex、OLAINDEX（使用OneDrive API）；Cloudreve（可用oss）；sparkleshare；命令行上传到网盘的工具：rclone；zFile（国产，Java）：https://github.com/zhaojun1998/zfile; 评测：https://xiaoyou66.com/archives/769 ；https://www.directorylister.com/ （indexer，PHP）；https://github.com/prasathmani/tinyfilemanager （PHP）
+* 文件浏览器：https://larsjung.de/h5ai/ （PHP）、https://github.com/filebrowser/filebrowser （GO）
+* gitlab
+* ~~wiki~~ (PHP）
+* 爬虫
+* 论坛 （discuz是PHP且不再维护了）
+* 监控程序/API的：https://github.com/ivbeg/awesome-status-pages 合集。https://cachethq.io/ （合集中最活跃的但是PHP）、https://github.com/hunterlong/statping （GO）、https://github.com/bazzite/statusfy （JS）。https://uptimerobot.com/ 不开源，有免费版、https://www.atlassian.com/zh/software/statuspage 有免费版、https://github.com/nicolargo/glances (Py)
+* 监控服务器状态：https://github.com/netdata/netdata C+Python，star非常多，有中文翻译。https://github.com/grafana/grafana TS+GO，star数稍少，但commit数和贡献者数非常多。https://github.com/open-falcon/falcon-plus GO，相对而言star数少很多，但是国产的，需要mysql；https://github.com/CokeMine/ServerStatus-Hotaru
+* 各种可以装的软件的收集：https://github.com/Kickball/awesome-selfhosted 、https://www.softaculous.com/softaculous/apps 、 https://github.com/luong-komorebi/Awesome-Linux-Software 、https://statusfy.co/
+* 自己挂广告
+* 图床：https://xiaoyou66.com/archives/774 、https://molunerfinn.com/PicGo/
+* 可视化日志：https://goaccess.io
+* BT下载：https://github.com/jpillora/cloud-torrent
+* 创建网页版的Shell：https://github.com/instantbox/instantbox
+* VSO: https://docs.microsoft.com/zh-cn/visualstudio/online/how-to/vscode#self-hosted 现在暂时需要在服务器上装VSC和VSO扩展，需要GUI
+* jupyter notebook: https://xiaoyou66.com/archives/1095
+* OSS: https://github.com/minio/minio https://www.digitalocean.com/community/tutorials/how-to-set-up-an-object-storage-server-using-minio-on-ubuntu-18-04
+* 短链接：UOURLS（PHP，需要二次开发）Polr（也是PHP，不过偏向开箱即用）https://github.com/ellisonleao/pyshorteners
+* https://apex.sh/up/ 一键部署几种语言的Serverless应用到AWS
+* https://github.com/chrislusf/seaweedfs 分布式文件系统，支持S3的API；https://github.com/syncthing/syncthing
+* CI in Docker: https://drone.io/
+* 当我有服务器时我做了什么（别人的集合）：https://shanyue.tech/op
+* 后台控制面板：https://www.jianshu.com/p/3bc7404af887
+* 搜索引擎：https://github.com/benbusby/whoogle-search
+
+---
+
