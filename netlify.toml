@@ -1,12 +1,10 @@
-[build]
-  publish = "demo/public"
-  command = "make prepare && hugo --source demo --baseURL $URL"
+[build.environment]
+  YARN_VERSION = "1.12.1"
+  NPM_VERSION = "6.4.1"
 
-[context.production.environment]
-  HUGO_VERSION = "0.74.3"
+[build]
+  command = "yarn build"
+  publish = "dist"
 
 [context.deploy-preview]
-  command = "make prepare && hugo --source demo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.74.3"
+  command = "yarn build:preview"
